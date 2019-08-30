@@ -1,1 +1,3 @@
-from sklearn import numpy as nP
+def fenzhi():
+D
+    print()r
